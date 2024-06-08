@@ -1,3 +1,3 @@
 # repos
 Odin Project Projects
-"Hello, Odin!"
+"Hello Odin!"
